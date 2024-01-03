@@ -17,4 +17,4 @@ This project involves a deep-dive analysis into the bike sales dataset involves 
 - Utilizing Excel's form controls (buttons, drop-down lists) to make the dashboard interactive.
 - Organizing the dashboard with a clear and intuitive layout. Use colors and formatting to enhance visual appeal.
 
-![Dashboard](https://github.com/ruggedx220/Bike-Sales-Data-Analysis/blob/main/Screenshot%202024-01-03%20114110.png) 
+![Dashboard](https://github.com/ruggedx220/Bike-Sales-Data-Analysis/blob/main/Screenshot%202024-01-03%20113728.png) 
