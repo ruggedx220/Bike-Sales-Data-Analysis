@@ -1,17 +1,29 @@
-# BIKE SALES DATA ANALYSIS USING GOOGLE SHEETS
+# BIKE SALES DATA ANALYSIS USING MICROSOFT EXCEL
 This project involves a deep-dive analysis into the bike sales dataset involves several steps to gain insights into sales patterns, customer preferences, and other relevant aspects. The dataset contains the following columns:
 Customer ID: Unique Identity Number for each customer
+
 Marital Status: The Marital status of each customer. Either married or single.
+
 Gender: Either Male or Female	
+
 Income: Annual Income of each customer
+
 Children: Number of children each customer has.
+
 Education: Level of education of each customer
+
 Occupation: career of customer.
+
 Home Owner: if customer has a home or not.
+
 Cars: Amount of cars owned by customer.
+
 Commute Distance: Miles travelled by each customer
+
 Region: Region of Residence of customer
+
 Age: Age of customer
+
 Purchased Bike: If customer purchased bike or not.
 
 Below is a step-by-step process for conducting data analysis on a pizza sales dataset:
